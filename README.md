@@ -5,8 +5,10 @@ This project explores how students describe male and female professors different
 Data Source: (https://data.mendeley.com/datasets/fvtfjyvw7d/2)
 
 # Files Included
-Notebook 1.ipynb: The main notebook containing the code for the cleaned and analyzed data variaus 
+RateMyProfessorReviewAnalysis.ipynb: The main notebook containing the code for the cleaned and analyzed data variaus 
+
 data2 folder  - contains 2,763 cvs files of each indiviual student reviews from ratemyprofessor for variaus University/colleges and departments
+
 concatenated_data.cvs - unlcleaned dataset containing the concatenated dataset of each indiviual student reviews, resulting in 20,000 rows of student reviews 
 
 # Installation & Requirements
